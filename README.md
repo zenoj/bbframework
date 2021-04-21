@@ -1,2 +1,3 @@
-# goWeb
-This repo collects programs for golang web stuff
+The GoBugBountyFramework
+This repo collects bug bounty related programs and develops new techniques.
+
